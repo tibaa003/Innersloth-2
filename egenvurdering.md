@@ -12,4 +12,4 @@ kommentar - bruker mindre javascript enn hadde likt, mer html og css.
 
 karakter 5
 
-srimon signatur: Srimon Pradhan signerte her
+srimon signatur: <span style="font-family:'Algerian'">Srimon Pradhan signerte her</span>
